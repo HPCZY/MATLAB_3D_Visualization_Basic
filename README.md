@@ -1,4 +1,4 @@
-# MATLAB_3D_-Visualization_Basic
+# MATLAB_3D_Visualization_Basic
 MATLAB三维可视化基础，包含点/线/面/投影/视角等
 
 **Bilibili UP: [今天不飞了](https://space.bilibili.com/330337755)**
